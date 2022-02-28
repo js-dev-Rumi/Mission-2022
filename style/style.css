@@ -1,0 +1,11 @@
+.half-width{
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+div img{
+    max-height: 50%;
+    max-width: 50%;
+}
