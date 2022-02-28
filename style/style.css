@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 section{
-    height: 500px;
+    height: 310px;
     padding-bottom: 250px;
 }
 h1 span{
@@ -16,7 +16,8 @@ h1 span{
     padding-left: 3%;
 }
 .half-width img{
-    width: 100%;
+    max-width: 400px;
+    padding-left: 10% ;
 }
 div img{
     max-height: 100%;
@@ -39,14 +40,45 @@ h1{
     padding: 10px 40px;
     color: white;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 15px;
 }
 .my-mission h1{
     text-align: center;
 }
 .my-mission div{
-    box-shadow: 5px 7px 40px gray;
+    height: 200px;
+    width: 250px;
+    margin-left: 120px;
+    padding-left: 35px;
+    float:left;
 }
-#mission-vission-goal{
-    
+.my-mission img{
+    max-width: 150px;
+    max-height: 150px;
+}
+.my-mission p{
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.my-mission h3{
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.develpoer-limits h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.develpoer-limits{
+    background-image: url(../img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+.global-community h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.global-community img{
+    background-image: url(../img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
 }
