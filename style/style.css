@@ -91,16 +91,9 @@ text-align: center;
 h2 span{
     color: #d2691e;
 }
-.client img{
-    margin-left: 2%;
-    padding-left: 2%;
-    max-width: 150px;
-    margin-top: 30px;
-}
-.microsoft{
-    margin-top: 4%;
-}
 .client div{
-    width: 30%;
-    display: flex;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 5%;
+    padding-top: 10px;
 }
